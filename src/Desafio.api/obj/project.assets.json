@@ -2565,8 +2565,8 @@
     },
     "Desafio.Application/1.0.0": {
       "type": "project",
-      "path": "../../Desafio.Application/Desafio.Application.csproj",
-      "msbuildProject": "../../Desafio.Application/Desafio.Application.csproj"
+      "path": "../Desafio.Application/Desafio.Application.csproj",
+      "msbuildProject": "../Desafio.Application/Desafio.Application.csproj"
     },
     "Desafio.Domain/1.0.0": {
       "type": "project",
@@ -2625,8 +2625,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/Desafio.Application.csproj": {
-              "projectPath": "/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/Desafio.Application.csproj"
+            "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Application/Desafio.Application.csproj": {
+              "projectPath": "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Application/Desafio.Application.csproj"
             },
             "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/Desafio.Infra.csproj": {
               "projectPath": "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/Desafio.Infra.csproj"

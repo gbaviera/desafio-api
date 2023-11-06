@@ -35,7 +35,7 @@
     <ProjectReference Include="..\Desafio.Infra\Desafio.Infra.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
-    <ProjectReference Include="..\..\Desafio.Application\Desafio.Application.csproj">
+    <ProjectReference Include="..\Desafio.Application\Desafio.Application.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
   </ItemGroup>

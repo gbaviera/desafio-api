@@ -4,84 +4,6 @@
     "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.api/Desafio.api.csproj": {}
   },
   "projects": {
-    "/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/Desafio.Application.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/Desafio.Application.csproj",
-        "projectName": "Desafio.Application",
-        "projectPath": "/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/Desafio.Application.csproj",
-        "packagesPath": "/Users/guilhermebaviera/.nuget/packages/",
-        "outputPath": "/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/guilhermebaviera/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net7.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
-            "projectReferences": {
-              "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Domain/Desafio.Domain.csproj": {
-                "projectPath": "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Domain/Desafio.Domain.csproj"
-              },
-              "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/Desafio.Infra.csproj": {
-                "projectPath": "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/Desafio.Infra.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
-          "dependencies": {
-            "AutoMapper": {
-              "target": "Package",
-              "version": "[12.0.1, )"
-            },
-            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[12.0.1, )"
-            },
-            "FluentValidation": {
-              "target": "Package",
-              "version": "[11.8.0, )"
-            },
-            "FluentValidation.DependencyInjectionExtensions": {
-              "target": "Package",
-              "version": "[11.8.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
     "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.api/Desafio.api.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -105,8 +27,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/Desafio.Application.csproj": {
-                "projectPath": "/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/Desafio.Application.csproj"
+              "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Application/Desafio.Application.csproj": {
+                "projectPath": "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Application/Desafio.Application.csproj"
               },
               "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/Desafio.Infra.csproj": {
                 "projectPath": "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/Desafio.Infra.csproj"
@@ -198,6 +120,84 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Application/Desafio.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Application/Desafio.Application.csproj",
+        "projectName": "Desafio.Application",
+        "projectPath": "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Application/Desafio.Application.csproj",
+        "packagesPath": "/Users/guilhermebaviera/.nuget/packages/",
+        "outputPath": "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/guilhermebaviera/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Domain/Desafio.Domain.csproj": {
+                "projectPath": "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Domain/Desafio.Domain.csproj"
+              },
+              "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/Desafio.Infra.csproj": {
+                "projectPath": "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/Desafio.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.8.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
