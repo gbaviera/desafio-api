@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{FDCA3D13-9788-4D96-9448-FF37D35762F1}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Desafio.api/Configuration/IdentitySetup.cs">
+    <Files>
+      <File FileName="src/Desafio.api/Controllers/AuthenticateController.cs" Line="25" Column="50" />
+      <File FileName="Desafio.Application/Services/AuthAppService.cs" Line="9" Column="33" />
+      <File FileName="src/Desafio.api/Startup.cs" Line="77" Column="1" />
+      <File FileName="src/Desafio.api/Configuration/DependencySetup.cs" Line="10" Column="40" />
+      <File FileName="src/Desafio.Domain/Validators/UserValidator.cs" Line="1" Column="1" />
+      <File FileName="src/Desafio.api/Configuration/IdentitySetup.cs" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Desafio" expanded="True">
+            <Node name="Desafio.api" expanded="True" selected="True">
+              <Node name="Configuration" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Middlewares" expanded="True" />
+            </Node>
+            <Node name="Desafio.Application" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Desafio.Domain" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="Validators" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Desafio.api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/guilhermebaviera/Projects/Desafio/src/Desafio.api/Controllers/AuthenticateController.cs" relfile="src/Desafio.api/Controllers/AuthenticateController.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

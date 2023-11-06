@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "3RC5KN5qAuwgJOLINCHNrRj7RQhkoaROXP3MXz9Cwy+XndsWoIhhwAV/Ksp3jdWTZy1P8+KvsHB7Fmrj19tUJQ==",
+  "success": true,
+  "projectFilePath": "/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Domain/Desafio.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/guilhermebaviera/.nuget/packages/fluentvalidation/11.8.0/fluentvalidation.11.8.0.nupkg.sha512",
+    "/Users/guilhermebaviera/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.8.0/fluentvalidation.dependencyinjectionextensions.11.8.0.nupkg.sha512",
+    "/Users/guilhermebaviera/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/Users/guilhermebaviera/.nuget/packages/microsoft.identitymodel.abstractions/7.0.3/microsoft.identitymodel.abstractions.7.0.3.nupkg.sha512",
+    "/Users/guilhermebaviera/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.0.3/microsoft.identitymodel.jsonwebtokens.7.0.3.nupkg.sha512",
+    "/Users/guilhermebaviera/.nuget/packages/microsoft.identitymodel.logging/7.0.3/microsoft.identitymodel.logging.7.0.3.nupkg.sha512",
+    "/Users/guilhermebaviera/.nuget/packages/microsoft.identitymodel.tokens/7.0.3/microsoft.identitymodel.tokens.7.0.3.nupkg.sha512",
+    "/Users/guilhermebaviera/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/guilhermebaviera/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/guilhermebaviera/.nuget/packages/system.identitymodel.tokens.jwt/7.0.3/system.identitymodel.tokens.jwt.7.0.3.nupkg.sha512",
+    "/Users/guilhermebaviera/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/guilhermebaviera/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

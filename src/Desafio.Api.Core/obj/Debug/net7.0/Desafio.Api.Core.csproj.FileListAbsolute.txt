@@ -1,0 +1,12 @@
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Api.Core/bin/Debug/net7.0/Desafio.Api.Core.deps.json
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Api.Core/bin/Debug/net7.0/Desafio.Api.Core.dll
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Api.Core/bin/Debug/net7.0/Desafio.Api.Core.pdb
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Api.Core/obj/Debug/net7.0/Desafio.Api.Core.csproj.AssemblyReference.cache
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Api.Core/obj/Debug/net7.0/Desafio.Api.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Api.Core/obj/Debug/net7.0/Desafio.Api.Core.AssemblyInfoInputs.cache
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Api.Core/obj/Debug/net7.0/Desafio.Api.Core.AssemblyInfo.cs
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Api.Core/obj/Debug/net7.0/Desafio.Api.Core.csproj.CoreCompileInputs.cache
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Api.Core/obj/Debug/net7.0/Desafio.Api.Core.dll
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Api.Core/obj/Debug/net7.0/refint/Desafio.Api.Core.dll
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Api.Core/obj/Debug/net7.0/Desafio.Api.Core.pdb
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Api.Core/obj/Debug/net7.0/ref/Desafio.Api.Core.dll

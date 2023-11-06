@@ -1,0 +1,17 @@
+/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/bin/Debug/net7.0/Desafio.Application.deps.json
+/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/bin/Debug/net7.0/Desafio.Application.dll
+/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/bin/Debug/net7.0/Desafio.Application.pdb
+/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/bin/Debug/net7.0/Desafio.Domain.dll
+/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/bin/Debug/net7.0/Desafio.Infra.dll
+/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/bin/Debug/net7.0/Desafio.Domain.pdb
+/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/bin/Debug/net7.0/Desafio.Infra.pdb
+/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/obj/Debug/net7.0/Desafio.Application.csproj.AssemblyReference.cache
+/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/obj/Debug/net7.0/Desafio.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/obj/Debug/net7.0/Desafio.Application.AssemblyInfoInputs.cache
+/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/obj/Debug/net7.0/Desafio.Application.AssemblyInfo.cs
+/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/obj/Debug/net7.0/Desafio.Application.csproj.CoreCompileInputs.cache
+/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/obj/Debug/net7.0/Desafio.Application.csproj.CopyComplete
+/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/obj/Debug/net7.0/Desafio.Application.dll
+/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/obj/Debug/net7.0/refint/Desafio.Application.dll
+/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/obj/Debug/net7.0/Desafio.Application.pdb
+/Users/guilhermebaviera/Projects/Desafio/Desafio.Application/obj/Debug/net7.0/ref/Desafio.Application.dll

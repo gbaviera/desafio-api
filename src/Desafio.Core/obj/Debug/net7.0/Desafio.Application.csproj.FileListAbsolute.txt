@@ -1,0 +1,5 @@
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Core/obj/Debug/net7.0/Desafio.Application.csproj.AssemblyReference.cache
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Core/obj/Debug/net7.0/Desafio.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Core/obj/Debug/net7.0/Desafio.Application.AssemblyInfoInputs.cache
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Core/obj/Debug/net7.0/Desafio.Application.AssemblyInfo.cs
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Core/obj/Debug/net7.0/Desafio.Application.csproj.CoreCompileInputs.cache

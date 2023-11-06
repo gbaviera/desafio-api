@@ -1,0 +1,17 @@
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/bin/Debug/net7.0/Desafio.Infra.deps.json
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/bin/Debug/net7.0/Desafio.Infra.runtimeconfig.json
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/bin/Debug/net7.0/Desafio.Infra.dll
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/bin/Debug/net7.0/Desafio.Infra.pdb
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/bin/Debug/net7.0/Desafio.Domain.dll
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/bin/Debug/net7.0/Desafio.Domain.pdb
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/obj/Debug/net7.0/Desafio.Infra.csproj.AssemblyReference.cache
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/obj/Debug/net7.0/Desafio.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/obj/Debug/net7.0/Desafio.Infra.AssemblyInfoInputs.cache
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/obj/Debug/net7.0/Desafio.Infra.AssemblyInfo.cs
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/obj/Debug/net7.0/Desafio.Infra.csproj.CoreCompileInputs.cache
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/obj/Debug/net7.0/Desafio.Infra.csproj.CopyComplete
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/obj/Debug/net7.0/Desafio.Infra.dll
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/obj/Debug/net7.0/refint/Desafio.Infra.dll
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/obj/Debug/net7.0/Desafio.Infra.pdb
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/obj/Debug/net7.0/Desafio.Infra.genruntimeconfig.cache
+/Users/guilhermebaviera/Projects/Desafio/src/Desafio.Infra/obj/Debug/net7.0/ref/Desafio.Infra.dll
