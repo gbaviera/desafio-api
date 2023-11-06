@@ -25,6 +25,7 @@ namespace Desafio.api.Configuration
                         ValidateAudience = false
                     };
                 });
+
             return services;
 
         }
