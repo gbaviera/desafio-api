@@ -1,5 +1,5 @@
-﻿using Desafio.api.Configuration;
-using AutoMapper;
+﻿using AutoMapper;
+using Desafio.api.Configuration;
 using Desafio.Application.AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
@@ -21,9 +21,16 @@ namespace Desafio
             services.AddIdentitySetup();
             services.InjectDependencies(Configuration);
 
+            var mapperConfig = new MapperConfiguration(mc =>
+            {
+                mc.AddProfile(new UserProfile());
+            });
+            IMapper mapper = mapperConfig.CreateMapper();
+            services.AddSingleton(mapper);
+
 
             var connectionString = Configuration.GetConnectionString("DefaultConnection");
-            services.AddDbContext<DbContext>(options =>
+            services.AddDbContext<DesafioDbContext>(options =>
                 options.UseNpgsql(connectionString)
             );
 
@@ -49,12 +56,7 @@ namespace Desafio
             });
 
 
-            var mapperConfig = new MapperConfiguration(mc =>
-            {
-                mc.AddProfile(new UserProfile());
-            });
-            IMapper mapper = mapperConfig.CreateMapper();
-            services.AddSingleton(mapper);
+            
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -71,8 +73,9 @@ namespace Desafio
 
             app.UseHttpsRedirection();
             app.UseRouting();
-            app.UseAuthorization();
             app.UseAuthentication();
+
+            app.UseAuthorization();
             
 
             app.UseMiddleware<ExceptionMiddleware>();

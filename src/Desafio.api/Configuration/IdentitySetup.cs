@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
+﻿using System.Text;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 
 namespace Desafio.api.Configuration
@@ -7,7 +8,8 @@ namespace Desafio.api.Configuration
 	{
 		public static IServiceCollection AddIdentitySetup(this IServiceCollection services)
 		{
-            var key = new byte[0];
+            var key = Encoding.ASCII.GetBytes("teste");
+
 
             services.AddAuthentication(x => {
                 x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;

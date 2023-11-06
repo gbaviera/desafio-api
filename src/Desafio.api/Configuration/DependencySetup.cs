@@ -9,9 +9,8 @@ namespace Desafio.api.Configuration
 {
     public static class DependencySetup
     {
-        public static void InjectDependencies(this IServiceCollection services, IConfiguration config)
+        public static IServiceCollection InjectDependencies(this IServiceCollection services, IConfiguration config)
         {
-
 
             //Dependency Injection
             services.AddScoped(typeof(IServiceBase<>), typeof(ServiceBase<>));
@@ -25,6 +24,7 @@ namespace Desafio.api.Configuration
 
             services.AddScoped<IValidator<User>, UserValidator>();
 
+            return services;
         }
     }
 }
